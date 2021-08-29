@@ -1,0 +1,26 @@
+.todo__item{
+	border-bottom: 1px solid #9c9c9c;
+	padding: 10px;
+	display: flex;
+	text-align: center;
+
+	&-id{
+		width: 10%;
+	}
+
+	&-title{
+		width: 60%;
+	}
+
+	&-status{
+		width: 10%;
+	}
+
+	&-edit{
+		width: 10%;
+	}
+
+	&-remove{
+		width: 10%;
+	}
+}
